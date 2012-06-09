@@ -3,9 +3,9 @@ target/
 
 # IDEA files
 .idea/
-.iml
-.ipr
-.iws
+*.iml
+*.ipr
+*.iws
 
 # pax-runner working dir
 runner/
