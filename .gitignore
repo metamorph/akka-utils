@@ -1,0 +1,11 @@
+# Maven output
+target/
+
+# IDEA files
+.idea/
+.iml
+.ipr
+.iws
+
+# pax-runner working dir
+runner/
