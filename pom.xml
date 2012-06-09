@@ -48,6 +48,7 @@
     <module>poms</module>
     <module>provision</module>
     <module>wrapped</module>
+    <module>modules</module>
   </modules>
 
   <build>
