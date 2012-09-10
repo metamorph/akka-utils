@@ -16,7 +16,6 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>akka-test-bundle</module>
   </modules>
 
 </project>
