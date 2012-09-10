@@ -17,6 +17,7 @@
 
   <modules>
     <module>actor-system-provision</module>
+    <module>monitoring</module>
   </modules>
 
 </project>
