@@ -6,6 +6,7 @@ target/
 *.iml
 *.ipr
 *.iws
+atlassian-ide-plugin.xml
 
 # pax-runner working dir
 runner/
